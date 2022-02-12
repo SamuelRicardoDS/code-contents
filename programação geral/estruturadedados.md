@@ -2,6 +2,11 @@
 
 ##Principais tipos
 
-Alinhado a esquerda | Centralizado | Alinhado a direita
-:--------- | :------: | -------:
-Valor | Valor | Valor
+*Vetores e Matrizes
+*Registro
+*Lista
+*Pilha
+*Fila
+*Árvore
+*Tabela Hash
+*Grafos
