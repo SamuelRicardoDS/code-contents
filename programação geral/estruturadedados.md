@@ -1,12 +1,12 @@
-#Estrutura de Dados
+# Estrutura de Dados
 
-##Principais tipos
+## Principais tipos
 
-*Vetores e Matrizes
-*Registro
-*Lista
-*Pilha
-*Fila
-*Árvore
-*Tabela Hash
-*Grafos
+* Vetores e Matrizes
+* Registro
+* Lista
+* Pilha
+* Fila
+* Árvore
+* Tabela Hash
+* Grafos
