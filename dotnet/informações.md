@@ -6,3 +6,12 @@
 > .NET - é uma plataforma de desenvolvimento de diversos tipos de aplicações
 
 > ASP.NET - é um Framework que estende .NET para a criação de web apps.
+
+* É uma plataforma cruzada (pode ser acessada de diferentes sistemas)
+
+* Web, Mobile, Desktop, Microservices, Cloud, Machine Learning, Games, IoT
+
+> Linguagens
+> * C#
+> * F#
+> * Visual Basic
