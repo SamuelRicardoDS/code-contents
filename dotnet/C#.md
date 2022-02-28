@@ -7,3 +7,12 @@
 * Orientada a objetos (transforma em objetos entidades do mundo real)
 * Fortemente tipada
 
+> Principais conceitos organizacionais em C#
+> * programas
+> * namespaces
+> * tipos
+> * membros
+> * assemblies
+
+
+
