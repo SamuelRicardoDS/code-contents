@@ -8,11 +8,12 @@
 * Fortemente tipada
 
 > Principais conceitos organizacionais em C#
-> * programas
+>
+> * programas [declaram tipos que podem conter membro e podem ser organizados em namespaces]
 > * namespaces
-> * tipos
-> * membros
-> * assemblies
+> * tipos [classes e interfaces]
+> * membros [campos, métodos, propriedades e eventos]
+> * assemblies [programas em C# são compilados, sendo fisicamente empacotados em assemblies [.exe] [.dll]]
 
 
 
