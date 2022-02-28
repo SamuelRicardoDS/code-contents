@@ -15,3 +15,5 @@
 > * C#
 > * F#
 > * Visual Basic
+
+> O .NET inclui uma extensa biblioteca com milhares de classes e variedades de funcionalidades desde entrada até saída de arquivos, além de outras manipulações
