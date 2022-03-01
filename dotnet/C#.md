@@ -16,8 +16,20 @@
 > * assemblies [programas em C# são compilados, sendo fisicamente empacotados em assemblies [.exe] [.dll]]
 
 
-> Tipos de variáveis
-> * tipos de valor [variaveis que contem diretamente seus dados, não é possível que]
+> ## Tipos de variáveis
+> ### tipos de valor 
+> [variaveis que contém diretamente seus dados, não é possível que as operações afetem outra variável a não ser em caso de parâmetro]
+> * Numéricos [sbyte, short, int, long, byte, ushort, uint, ulong]
+> * Caracteres Unicode [char]
+> * Pontos flutuantes [float, double, decimal]
+> * Booleano [bool]
+> * Outros [enum, struct, tipos nullable]
+>
+> ### tipos de referência
+> [variáveis que contém referências de seus dados, é possível que duas variáveis façam referẽncia ao mesmo objeto, portanto, que operações em uma variável afetem o objeto referenciado em outra]
+> * Classes [class, object, string]
+> * Arrays [int[], int[,], etc...]
+> * Outros [interface, delegate]
 
 
 
