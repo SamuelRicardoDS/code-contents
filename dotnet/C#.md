@@ -16,4 +16,8 @@
 > * assemblies [programas em C# são compilados, sendo fisicamente empacotados em assemblies [.exe] [.dll]]
 
 
+> Tipos de variáveis
+> * tipos de valor [variaveis que contem diretamente seus dados, não é possível que]
+
+
 
