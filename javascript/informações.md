@@ -4,3 +4,7 @@
 
 //comentário de linha unica
 /* comentário de várias linhas */
+
+#### Declarar variável
+* var nome da variável
+* var nome de uma, nome de outra, nome de mais outra
