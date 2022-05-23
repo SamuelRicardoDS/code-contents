@@ -8,3 +8,5 @@
 > ## Runtime
 > Responsável por pegar o bloco de código escrito e compilá-lo para a linguagem de máquina (binário)
 
+> ## WORA
+>  write once run anywhere (usado no contexto de java)
